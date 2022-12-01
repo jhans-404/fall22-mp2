@@ -2,6 +2,7 @@
 #### Respond to the following:
 
 1. Fill out the following truth table:
+
 | P  | Q  | P && Q | P \|\| Q |
 |:--:|:--:|:------:|:--------:|
 | T  | T  |        |          |
@@ -11,6 +12,7 @@
 
 
 2. Prove a version of DeMorgan's Law:
+
 | P  | Q  | P \|\| Q | ! (P \|\| Q) | !P | !Q | !P && !Q |
 |:--:|:--:|:--------:|:------------:|:--:|:--:|:--------:|
 | T  | T  |          |              |    |    |          |
